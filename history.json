@@ -1,0 +1,70 @@
+{
+  "94763238609@c.us": [
+    {
+      "role": "user",
+      "content": "Second wawa"
+    },
+    {
+      "role": "assistant",
+      "content": "Sri Lanka's second largest reservoir is the \"Kandawala Wewa.\" It is located in the Anuradhapura District and plays a significant role in irrigation and agriculture in the region."
+    },
+    {
+      "role": "user",
+      "content": "Ha"
+    },
+    {
+      "role": "assistant",
+      "content": "If you have any more questions or need further information, feel free to ask!"
+    },
+    {
+      "role": "user",
+      "content": "බුදුරජාණන් වහන්සේ යනු කවරෙක්ද"
+    },
+    {
+      "role": "assistant",
+      "content": "බුදුරජාණන් වහන්සේ යනු බුද්ධ ධර්මය පිළිබඳව ආශ්‍රිත වූ ප්‍රධාන චරිතය වන අතර, ඔහුගේ සම්මා සම්බුද්ධි ලැබීමෙන් පසු බුද්ධත්වය ලබා ගත් විශේෂිත පුද්ගලයෙකි. ඔහුගේ උපන් නම සීද්ධාර්ථ ගෝතමයයි. බුද්ධ වශයෙන්, ඔහු සියලු මනුෂ්‍යයන්ට දුක්කය, එහි හේතු, නිවාරණය සහ මාර්ගය පිළිබඳ දැනුම ලබා දී ඇත. බුද්ධ ධර්මය, ඔහුගේ උගන්වීම් මත පදනම්ව, ලොව පුරා බොහෝ මිනිසුන්ගේ ආත්මික ජීවිතය හා චින්තනයට බලපෑම් කළේය."
+    },
+    {
+      "role": "user",
+      "content": "Thank you 😊"
+    },
+    {
+      "role": "assistant",
+      "content": "You're welcome! If you have any more questions, feel free to ask. 😊"
+    },
+    {
+      "role": "user",
+      "content": "No, good night I love 💕 bye 😎👋"
+    },
+    {
+      "role": "assistant",
+      "content": "Good night! Take care and sleep well! 💕😎👋"
+    }
+  ],
+  "status@broadcast": [
+    {
+      "role": "user",
+      "content": "🫂🤍"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello! How can I assist you today?"
+    },
+    {
+      "role": "user",
+      "content": "Mm 🤭"
+    },
+    {
+      "role": "assistant",
+      "content": "Is there something specific on your mind? Feel free to share! 😊"
+    },
+    {
+      "role": "user",
+      "content": "*Now 🥱*"
+    },
+    {
+      "role": "assistant",
+      "content": "Looks like you might be feeling a bit tired! Need a break or something to energize you?"
+    }
+  ]
+}
